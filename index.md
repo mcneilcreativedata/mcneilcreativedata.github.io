@@ -4,10 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
+#### [Spotify Dashboard](/bank)
+<img src="images/spotify_dashboard.png?raw=true"/>
+Spotify's Top Artists 2023
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
