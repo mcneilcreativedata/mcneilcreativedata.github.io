@@ -6,7 +6,10 @@
 
 #### [Spotify Dashboard](/bank)
 <img src="images/spotify_dashboard.png?raw=true"/>
-Spotify's Top Artists 2023
+Made a dashboard to identify patterns in audio features
+to understand trends and preferences in popular songs,
+and what separates the top artists from the rest.
+
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
