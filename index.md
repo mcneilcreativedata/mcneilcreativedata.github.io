@@ -4,7 +4,7 @@
 
 ### Learn About My Projects
 
-#### [Spotify Dashboard]([https://public.tableau.com/app/profile/akeem.mcneil/viz/SpotlightonSpotify/SpotifyDashboard?publish=yes])
+#### [Spotify Dashboard](https://public.tableau.com/app/profile/akeem.mcneil/viz/SpotlightonSpotify/SpotifyDashboard?publish=yes)
 [<img src="images/spotify_dashboard.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 Made a dashboard to identify patterns in audio features
 to understand trends and preferences in popular songs,
