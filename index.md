@@ -6,8 +6,9 @@
 
 #### [Spotify Dashboard]([https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith](https://public.tableau.com/app/profile/akeem.mcneil/viz/SpotlightonSpotify/SpotifyDashboard?publish=yes))
 [<img src="images/spotify_dashboard.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
+Made a dashboard to identify patterns in audio features
+to understand trends and preferences in popular songs,
+and what separates the top artists from the rest. 
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
